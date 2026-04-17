@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>allowQuit</key><true/>
+    <key>browserWindowAllowReload</key><true/>
+    <key>examSessionClearCookiesOnStart</key><false/>
+    <key>sendBrowserExamKey</key><true/>
+    <key>showInputLanguage</key><true/>
+    <key>showReloadButton</key><true/>
+    <key>showTaskBar</key><true/>
+    <key>showTime</key><true/>
+    <key>startURL</key><string>https://www.google.com</string>
+    <key>URLFilterEnable</key><false/>
+</dict>
+</plist>
